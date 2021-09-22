@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 64px;
+    background-color: aquamarine;
+    color: black;
+}
+#btn-registrar{
+    background-color: aqua;
+}
