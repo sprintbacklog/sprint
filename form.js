@@ -19,4 +19,4 @@ const checkContrasena = (valor) => {
 };
 checkContrasena(val);
 
-//module.exports = {checkContrasena};
+module.exports = {checkContrasena};
