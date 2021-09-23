@@ -1,6 +1,6 @@
 //const val = document.getElementById('clave').value;
 
-//const val = "asd(12*D";
+const val = "asd(12*D";
 const checkContrasena = (valor) => {
     if(valor != ""){
         //Validación usando expresiones regulares
