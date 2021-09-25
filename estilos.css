@@ -1,11 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;  
+}
 body{
     background-color: blanchedalmond;
 }
 h1{
-    font-size: 64px;
     background-color: aquamarine;
     color: black;
+    font-size: 64px;
+    text-align: center;
+       
 }
-#btn-registrar{
-    background-color: aqua;
+.form__register{
+    display: flex;
+    justify-content: center;
 }
